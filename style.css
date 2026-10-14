@@ -1,10 +1,11 @@
 body{
-    background-image: url(img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg)
-    text color(brown)
+    background-image: url(img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg);
+    color: brown;
 }
 h1{
     text-align: middle;
 }
-a{
+
+a:active, a:hover, a:visited {
     color: (darkslategrey);
 }
